@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Guardian Top African News</string>
+    <string name="setting_menu_item">Settings</string>
+    <string name="settings_title">News Settings</string>
+
+    <string name="no_data">No news data to display at this time.  Please check your internet connection.</string>
+    <string name="connection_ok">Loading the Latest African News</string>
+    <string name="connection_bad">Check your internet connect connection</string>
+
+
+    <!-- Strings For Order-By Preference [CHAR LIMIT=30] -->
+    <string name="settings_order_by_label">Sort News By Region</string>
+    <string name="settings_order_by_key" translatable="false">Sort_News_By_Region</string>
+    <string name="settings_order_by_default" translatable="false">Africa</string>
+
+    <!-- Label for order-by Africa option [CHAR LIMIT=20] -->
+    <string name="settings_order_by_Disporia_value">African Disporia Areas</string>
+    <string name="settings_order_by_Africa_label">Africa</string>
+    <string name="settings_order_by_Africa_value" translatable="false">Africa</string>
+
+    <!-- Label for order-by Caribbean option [CHAR LIMIT=20] -->
+    <string name="settings_order_by_Caribben_label">Caribbean</string>
+    <string name="settings_order_by_Caribbean_value" translatable="false">Caribbean</string>
+
+    <!-- Label for order-by Brazil option [CHAR LIMIT=20] -->
+    <string name="settings_order_by_Brazil_label">Brazil</string>
+    <string name="settings_order_by_Brazil_value" translatable="false">Brazil</string>
+
+
+</resources>
